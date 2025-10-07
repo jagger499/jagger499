@@ -36,9 +36,14 @@ I like clean, readable code and repeatable delivery. When possible I share:
 - **Prompt engineering** patterns (CoT, Socratic, Templates, auto-validation)  
 - **Testing** utilities (contract tests, schema validation, fixtures, factories)
 
-## GitHub Stats
-![Jhon's Stats](https://github-readme-stats.vercel.app/api?username=jagger499&show_icons=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagger499&layout=compact&langs_count=10)
+## At a glance
+
+[![Open to remote](https://img.shields.io/badge/Open%20to-Remote-blue)](#)
+[![Timezone](https://img.shields.io/badge/TZ-UTC--5-informational)](#)
+[![Email](https://img.shields.io/badge/Email-jagg499%40gmail.com-orange)](mailto:jagg499@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://www.linkedin.com/in/jhon-alejandro-garcia-garcia-tl-8547b718b/)
+![Profile views](https://komarev.com/ghpvc/?username=jagger499&label=Profile%20views&style=flat)
+
 
 
 ## Let’s Connect
