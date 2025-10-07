@@ -2,6 +2,13 @@
 
 I build reliable, scalable products with TypeScript/Node.js, React/Next.js, and cloud/serverless. My recent focus is applying **Generative AI** to real workflows (RAG, knowledge graphs, LangChain/LangGraph) with strong engineering practices (testing, CI/CD, SOC 2 posture).
 
+## At a glance
+
+[![Open to remote](https://img.shields.io/badge/Open%20to-Remote-blue)](#)
+[![Timezone](https://img.shields.io/badge/TZ-UTC--5-informational)](#)
+[![Email](https://img.shields.io/badge/Email-jagg499%40gmail.com-orange)](mailto:jagg499@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://www.linkedin.com/in/jhon-alejandro-garcia-garcia-tl-8547b718b/)
+
 - 7+ years shipping web & mobile products across finance, legaltech, and e-commerce  
 - Technical Lead at Carvajal Tecnología y Servicios (LegalTech)  
 - Comfortable leading end-to-end delivery: discovery → design → implementation → quality → release
@@ -36,13 +43,22 @@ I like clean, readable code and repeatable delivery. When possible I share:
 - **Prompt engineering** patterns (CoT, Socratic, Templates, auto-validation)  
 - **Testing** utilities (contract tests, schema validation, fixtures, factories)
 
-## At a glance
 
-[![Open to remote](https://img.shields.io/badge/Open%20to-Remote-blue)](#)
-[![Timezone](https://img.shields.io/badge/TZ-UTC--5-informational)](#)
-[![Email](https://img.shields.io/badge/Email-jagg499%40gmail.com-orange)](mailto:jagg499@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://www.linkedin.com/in/jhon-alejandro-garcia-garcia-tl-8547b718b/)
-![Profile views](https://komarev.com/ghpvc/?username=jagger499&label=Profile%20views&style=flat)
+
+<!-- Total stats (all-time) -->
+![All-time Stats](https://github-readme-stats.vercel.app/api?username=jagger499&show_icons=true&include_all_commits=true&count_private=true)
+
+<!-- Streak (consistency) -->
+![Streak](https://streak-stats.demolab.com?user=jagger499)
+
+<!-- Top languages (overview) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagger499&layout=compact&langs_count=10)
+
+<!-- Trophies (milestones) -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=jagger499&no-frame=true&margin-w=8)
+
+<!-- Activity graph (rhythm) -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jagger499&radius=8)
 
 
 
