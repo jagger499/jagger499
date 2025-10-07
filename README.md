@@ -39,7 +39,6 @@ I like clean, readable code and repeatable delivery. When possible I share:
 ## GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=jagger499&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagger499&layout=compact)
-![Streak](https://streak-stats.demolab.com?user=jagger499)
 
 ## Let’s Connect
 - Email: jagg499@gmail.com  
