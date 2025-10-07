@@ -37,8 +37,9 @@ I like clean, readable code and repeatable delivery. When possible I share:
 - **Testing** utilities (contract tests, schema validation, fixtures, factories)
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=jagger499&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagger499&layout=compact)
+![Jhon's Stats](https://github-readme-stats.vercel.app/api?username=jagger499&show_icons=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagger499&layout=compact&langs_count=10)
+
 
 ## Let’s Connect
 - Email: jagg499@gmail.com  
