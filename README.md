@@ -57,8 +57,6 @@ I like clean, readable code and repeatable delivery. When possible I share:
 <!-- Trophies (milestones) -->
 ![Trophies](https://github-profile-trophy.vercel.app/?username=jagger499&no-frame=true&margin-w=8)
 
-<!-- Activity graph (rhythm) -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jagger499&radius=8)
 
 
 
