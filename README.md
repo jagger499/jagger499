@@ -9,7 +9,7 @@ I build reliable, scalable products with TypeScript/Node.js, React/Next.js, and 
 [![Email](https://img.shields.io/badge/Email-jagg499%40gmail.com-orange)](mailto:jagg499@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://www.linkedin.com/in/jhon-alejandro-garcia-garcia-tl-8547b718b/)
 
-- 7+ years shipping web & mobile products across finance, legaltech, and e-commerce  
+- 8+ years shipping web & mobile products across finance, legaltech, and e-commerce  
 - Technical Lead at Carvajal Tecnología y Servicios (LegalTech)  
 - Comfortable leading end-to-end delivery: discovery → design → implementation → quality → release
 
